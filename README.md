@@ -64,4 +64,4 @@ A continuación, se muestra el significado de cada clasificación según el siti
 - Scipy
 
 ## ⚖️ Licencia
-Este proyecto está bajo la licencia Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0). Eres libre de usar, compartir y adaptar este trabajo para fines no comerciales, siempre que se dé el crédito adecuado. Para más detalles, consulta el archivo [LICENCIA](./LICENSE) o visita [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/).
+Este proyecto está bajo la licencia Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0). Eres libre de usar, compartir y adaptar este trabajo para fines no comerciales, siempre que se dé el crédito adecuado. Para más detalles, consulta el archivo [LICENCIA](LICENCIA.TXT) o visita [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/).
